@@ -1,1 +1,3 @@
-bat 'javac coucou.java'
+stage('Build') {
+  bat 'javac coucou.java'
+ }
