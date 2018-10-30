@@ -4,6 +4,6 @@ public class coucou {
   }
   
   public static String getCoucou() {
-    return "coucou";
+    return "coucou1";
   }
 }
