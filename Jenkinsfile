@@ -1,6 +1,6 @@
 node {
   stage('Build') {
-    checkout
+    checkout scm
     bat 'javac coucou.java'
   }
 }
