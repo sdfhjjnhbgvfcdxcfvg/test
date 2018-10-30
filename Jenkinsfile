@@ -1,3 +1,5 @@
-stage('Build') {
-  bat 'javac coucou.java'
- }
+node {
+  stage('Build') {
+    bat 'javac coucou.java'
+  }
+}
