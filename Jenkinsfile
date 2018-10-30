@@ -1,2 +1,2 @@
 echo "test"
-javac coucou.java java coucou
+bat(/javac coucou.java/)
